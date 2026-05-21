@@ -140,23 +140,7 @@ npm run dev
 # Runs at http://localhost:5173
 ```
 
-## Deployment
 
-### Frontend → Vercel
-```bash
-cd task-portal-frontend
-npm run build
-# Deploy dist/ to Vercel
-# Set VITE_API_URL=https://your-backend.onrender.com/api
-```
-
-### Backend → Render
-- Set all environment variables in Render dashboard
-- Build command: `mvn clean package -DskipTests`
-- Start command: `java -jar target/task-portal-backend-1.0.0.jar`
-
-### Database → Neon / PlanetScale / Railway
-- Get JDBC URL and set as `DB_URL` in Render env vars
 
 ## AI Integration
 
