@@ -1,3 +1,4 @@
+<img width="593" height="274" alt="Screenshot 2026-05-21 131215" src="https://github.com/user-attachments/assets/88aa18bf-c8c4-451d-9895-b1802a261adf" />
 # AI-Powered Task Management Portal
 
 A production-style full-stack task management application with AI-powered task generation using Google Gemini.
@@ -167,3 +168,7 @@ Flow:
 - Swagger/OpenAPI documentation
 - Global exception handling with structured error responses
 - Pagination support (`GET /api/tasks/paged`)
+
+  
+ER diagram for database schema:
+<img width="593" height="274" alt="Screenshot 2026-05-21 131215" src="https://github.com/user-attachments/assets/9fdbd34c-4c8a-4143-a36e-248338620c22" />
