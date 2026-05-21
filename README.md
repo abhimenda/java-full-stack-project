@@ -1,4 +1,4 @@
-<img width="593" height="274" alt="Screenshot 2026-05-21 131215" src="https://github.com/user-attachments/assets/88aa18bf-c8c4-451d-9895-b1802a261adf" />
+
 # AI-Powered Task Management Portal
 
 A production-style full-stack task management application with AI-powered task generation using Google Gemini.
